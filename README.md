@@ -1,1 +1,3 @@
-# gitdemo
+hi there...
+
+I am learning git
